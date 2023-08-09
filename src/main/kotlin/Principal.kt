@@ -6,6 +6,10 @@ fun main() {
 
     println("TERCER SALIDA POR CONSOLA")
 
+    println()
+    println()
+    println()
+    println()
 
 
 }
