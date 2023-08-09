@@ -17,12 +17,10 @@ fun main() {
     println("Mas configuraciones")
     println("Muchas mas configuraciones")
 
-
-    println("Ajustes")
-    println("Ajustes")
-    println("Ajustes")
-    println("Ajustes")
-    println("Ajustes")
-    println("Ajustes")
+    println()
+    println()
+    println()
+    println()
+    println("Hola Juan")
     println("Ajustes")
 }
