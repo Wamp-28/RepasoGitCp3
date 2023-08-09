@@ -9,6 +9,10 @@ fun main() {
     println("Mas configuraciones")
     println("Muchas mas configuraciones")
 
+    println()
+    println()
+    println()
+    println()
 
 
 }
