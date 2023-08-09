@@ -6,19 +6,23 @@ fun main() {
     println()
     println()
     println("Segunda por consola desde kotlin")
+    println("Segunda por consola desde kotlin")
+    println("Segunda por consola desde kotlin")
+    println("Segunda por consola desde kotlin")
+    println("Segunda por consola desde kotlin")
+    println("Segunda por consola desde kotlin")
+    println("Segunda por consola desde kotlin")
 
-    println()
-    println()
-    println()
-    println()
 
     println("Mas configuraciones")
     println("Muchas mas configuraciones")
 
-    println()
-    println()
-    println()
-    println()
 
+    println("Ajustes")
+    println("Ajustes")
+    println("Ajustes")
+    println("Ajustes")
+    println("Ajustes")
+    println("Ajustes")
     println("Ajustes")
 }
