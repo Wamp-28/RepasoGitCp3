@@ -4,4 +4,11 @@ fun main() {
 
     println("Segunda por consola desde kotlin")
 
+
+
+    println("Mas configuraciones")
+    println("Muchas mas configuraciones")
+
+
+
 }
